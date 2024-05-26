@@ -1,4 +1,4 @@
-# LoopCore: A Human in Loop AI launchpad for everyone. (Built on IBM Watson )
+# inloopCore: A Human in Loop AI launchpad for everyone. (Built on IBM Watson )
 
 This is boilerplate Rails 4 app to help you build natural language app with [IBM  Watson's APIs](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/dialog.html). 
 
